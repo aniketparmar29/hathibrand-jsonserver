@@ -19,8 +19,7 @@
     {"image_url":"https://images.oyoroomscdn.com/uploads/hotel_image/207088/thumb/61293134804a1048.jpg","type_of_room":"Elevator","cost":"?1789","bed_type":"Double","no_of_persons":"3","capacity":"4","booked":"0"},
     {"image_url":"https://images.oyoroomscdn.com/uploads/hotel_image/81963/thumb/d6dd4a334ef9ffa4.jpg","type_of_room":"Reception","cost":"?5128","bed_type":"Double","no_of_persons":"2","capacity":"3","booked":"0"},
     {"image_url":"https://images.oyoroomscdn.com/uploads/hotel_image/94639/thumb/690e75941ac5debc.jpg","type_of_room":"TV","cost":"?2717","bed_type":"Double","no_of_persons":"1","capacity":"2","booked":"0"}
-]
- "user":[
+],"user":[
  {"id":1,"username":"aniket","email":"ap@gmail.com","password":"asd"}
  ]
 }
